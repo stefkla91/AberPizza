@@ -10,8 +10,9 @@ public class Till {
 	}
 
 	
-	public void addOrder(Order order){
-		
+	public void addOrder(Order orders){
+		Order order = new Order();
+		orders.add(order);
 	}
 	
 	public void getTotalForDay(){

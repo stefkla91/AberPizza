@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_01" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Drinks">
+    <void property="description">
+     <string>Coca Cola - 1.25ltr</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.99</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Drinks">
+    <void property="description">
+     <string>Coca Cola Zero - 1.25ltr</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.99</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Drinks">
+    <void property="description">
+     <string>Diet Coca Cola - 1.25ltr</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.99</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Drinks">
+    <void property="description">
+     <string>Fanta - 1.25ltr</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.99</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Drinks">
+    <void property="description">
+     <string>Sprite - 1.25ltr</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.99</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Drinks">
+    <void property="description">
+     <string>Orange Juice - 1ltr</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.50</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Drinks">
+    <void property="description">
+     <string>Lemonade - 1.25ltr</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.50</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Drinks">
+    <void property="description">
+     <string>Water - 1.25ltr</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.50</string>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

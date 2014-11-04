@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_01" class="java.beans.XMLDecoder">
+ <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Till">
+  <void property="orders">
+   <void method="add">
+    <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Order" id="Order0">
+     <void property="customerName">
+      <string>Custome</string>
+     </void>
+     <void property="date">
+      <object class="java.util.Date">
+       <long>1336002925283</long>
+      </object>
+     </void>
+     <void property="items">
+      <void method="add">
+       <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.OrderItem">
+        <void property="item">
+         <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Pizza">
+          <void property="description">
+           <string>Florentine</string>
+          </void>
+          <void property="largePrice">
+           <object class="java.math.BigDecimal">
+            <string>16.99</string>
+           </object>
+          </void>
+         </object>
+        </void>
+        <void property="quantity">
+         <int>4</int>
+        </void>
+       </object>
+      </void>
+     </void>
+     <void property="total">
+      <object class="java.math.BigDecimal">
+       <string>67.96</string>
+      </object>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+  </void>
+ </object>
+</java>

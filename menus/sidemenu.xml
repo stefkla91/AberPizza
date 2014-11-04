@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_01" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+    <void property="description">
+     <string>Chicken Wings</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>4.49</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+    <void property="description">
+     <string>Boneless Ribs</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>4.99</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+    <void property="description">
+     <string>Potato Wedges</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>3.49</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+    <void property="description">
+     <string>Garlic Bread</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.50</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+    <void property="description">
+     <string>Fries</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.45</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+    <void property="description">
+     <string>ColeSlaw</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>2.30</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+    <void property="description">
+     <string>Ceasar Salad</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>2.85</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+    <void property="description">
+     <string>Dips</string>
+    </void>
+    <void property="price">
+     <object class="java.math.BigDecimal">
+      <string>1.29</string>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

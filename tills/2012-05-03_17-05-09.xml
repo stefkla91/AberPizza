@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_01" class="java.beans.XMLDecoder">
+ <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Till">
+  <void property="orders">
+   <void method="add">
+    <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Order" id="Order0">
+     <void property="customerName">
+      <string>45678</string>
+     </void>
+     <void property="date">
+      <object class="java.util.Date">
+       <long>1336061088844</long>
+      </object>
+     </void>
+     <void property="items">
+      <void method="add">
+       <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.OrderItem">
+        <void property="item">
+         <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Pizza">
+          <void property="description">
+           <string>New Yorker</string>
+          </void>
+          <void property="largePrice">
+           <object class="java.math.BigDecimal">
+            <string>12.99</string>
+           </object>
+          </void>
+         </object>
+        </void>
+        <void property="quantity">
+         <int>5</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.OrderItem">
+        <void property="item">
+         <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+          <void property="description">
+           <string>Dips</string>
+          </void>
+          <void property="price">
+           <object class="java.math.BigDecimal">
+            <string>1.29</string>
+           </object>
+          </void>
+         </object>
+        </void>
+        <void property="quantity">
+         <int>5</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.OrderItem">
+        <void property="item">
+         <object class="uk.ac.aber.dcs.cs12420.aberpizza.data.Sides">
+          <void property="description">
+           <string>Boneless Ribs</string>
+          </void>
+          <void property="price">
+           <object class="java.math.BigDecimal">
+            <string>4.99</string>
+           </object>
+          </void>
+         </object>
+        </void>
+        <void property="quantity">
+         <int>4</int>
+        </void>
+       </object>
+      </void>
+     </void>
+     <void property="total">
+      <object class="java.math.BigDecimal">
+       <string>91.36</string>
+      </object>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+   <void method="add">
+    <object idref="Order0"/>
+   </void>
+  </void>
+ </object>
+</java>
